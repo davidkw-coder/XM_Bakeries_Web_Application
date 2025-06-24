@@ -45,3 +45,13 @@ exports.login = (req, res) => {
         res.status(200).json({ message: 'Login successful.', token });
     });
 };
+
+exports.register = (req, res) => {
+    // Registration logic here
+    res.status(201).json({ message: 'User registered successfully' });
+};
+
+exports.login = (req, res) => {
+    // Login logic here
+    res.status(200).json({ message: 'Login successful' });
+};
