@@ -101,13 +101,21 @@ firebase deploy --only functions
 
 📋 API Endpoints Summary
 Endpoint	Method	Authentication
+
 /api/auth/register	POST	No
+
 /api/auth/login	POST	No
+
 /api/products	POST	Yes
+
 /api/products	GET	Yes
+
 /api/orders	POST	Yes
+
 /api/orders	GET	Yes
+
 /api/orders/{orderId}/track	GET	Yes
+
 /api/reports/sales	GET	Yes
 
 💻 Testing Tools
