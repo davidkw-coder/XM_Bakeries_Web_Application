@@ -57,7 +57,7 @@ You can:
 1. Clone the Repository
 bash
 CopyEdit
-git clone https://github.com/your-username/xm-bakery-system.git
+git clone https://github.com/davidkw-coder/XM_Bakeries_Web_Application.git
 cd xm-bakery-system
 2. Install Dependencies
 bash
